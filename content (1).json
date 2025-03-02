@@ -1,0 +1,122 @@
+{
+  "Home": {
+    "company_name": "COSMOSCARE Massage",
+    "tagline": "Where Earth Meets Sky | A Sanctuary of Serenity",
+    "content": "COSMOSCARE Massage is a premier mobile massage therapy service specializing in holistic and therapeutic treatments. Our expert therapists provide personalized wellness experiences in the comfort of your home, office, or preferred space.",
+    "wellness_tips": [
+      "Stay hydrated to flush out toxins and keep skin glowing.",
+      "Stretch regularly to improve flexibility and reduce tension.",
+      "Deep breathing exercises can instantly relieve stress.",
+      "Good sleep is essential—aim for 7-9 hours per night.",
+      "Aromatherapy with lavender and eucalyptus enhances relaxation."
+    ],
+    "mission": "To provide deeply rejuvenating and personalized massage experiences that promote holistic well-being.",
+    "vision": "To be a trusted leader in mobile wellness, bringing relaxation and renewal to every client."
+  },
+  "Contact": {
+    "location": "Leopold Gattringer Strasse 41/4, 2345 Brunn am Gebirge, Austria",
+    "phone": "+43 (0) 660 960 2552",
+    "website": "www.cosmoscare.space",
+    "spa_hours": {
+      "weekdays": "11:00 AM – 8:00 PM",
+      "weekends": "10:00 AM – 6:00 PM"
+    }
+  },
+  "Health & Safety": {
+    "client_preparation": {
+      "shower_before": "Clients are encouraged to shower before the session to enhance cleanliness and oil absorption.",
+      "space_requirements": "Provide a clean, private, and well-ventilated space of at least 2m x 2m.",
+      "health_disclosure": "Inform therapists of allergies, injuries, or medical conditions before the session."
+    },
+    "sanitization_measures": {
+      "disposable_linens": "Fresh linens for every session.",
+      "therapist_hygiene": "Therapists follow strict handwashing and sanitization protocols.",
+      "equipment_sanitization": "Massage tables and tools are disinfected before and after each use."
+    },
+    "emergency_protocols": {
+      "first_aid_kit": "Therapists carry a first aid kit for emergencies.",
+      "incident_reporting": "Any adverse reactions are documented and addressed per EU health regulations."
+    }
+  },
+  "Services": {
+    "COSMOSCARE MASSAGE: YOUR SANCTUARY OF SERENITY": {
+      "tagline": "“The first wealth is health.” – Ralph Waldo Emerson",
+      "content": "Step into a world where time slows, tension dissolves, and your well-being takes centre stage. At COSMOSCARE, we craft bespoke massage experiences designed to harmonize body, mind, and spirit. Inspired by the wisdom of poets and philosophers, our treatments are more than services—they are rituals of renewal.",
+    },
+    "tagline": "“To keep the body in good health is a duty… otherwise we shall not be able to keep our mind strong and clear.” – Buddha",
+    "head_neck_massage": {
+      "name": "The Wisdom of Release",
+      "duration": "30 Minutes",
+      "price": "€40",
+      "tagline": "“The mind is not a vessel to be filled, but a fire to be kindled.” – Plutarch",
+      "benefits": "Unburden the weight of endless thoughts with techniques inspired by ancient healing traditions. Let our therapists melt away headaches, quiet mental chatter, and restore clarity, as if lifting a veil of fog from a mountain peak."
+    },
+    "hand_arm_massage": {
+      "name": "Hands of Creation",
+      "duration": "25 Minutes",
+      "price": "€35",
+      "tagline": "““Your hand touches the world—let it touch you back with kindness.” – Inspired by Kahlil Gibran",
+      "benefits": "Celebrate the hands that create, labour, and love. This focused session eases stiffness from keyboards, tools, or daily tasks, reawakening the supple grace of your most devoted instruments."
+    },
+    "foot_leg_refresh": {
+      "name": "The Path Unfolds",
+      "duration": "30 Minutes",
+      "price": "€40",
+      "tagline": "“The journey of a thousand miles begins with a single step.” – Lao Tzu",
+      "benefits": "Pamper the feet that carry you through life’s adventures. Using rhythmic pressure and aromatic oils, we reignite circulation and soothe tired legs, preparing you to walk lighter, climb higher, and dance through seasons."
+    },
+    "full_body_relaxation": {
+      "name": "Whisper of Wholeness",
+      "duration_options": {
+        "30_minutes": "€40",
+        "tagline": "“The body is a sacred garment.” – Martha Graham",
+        "benefits": "A symphony of strokes across back, shoulders, and limbs—this treatment is a gentle invitation to shed layers of stress. Like a river smoothing stone, we guide muscles into balance, leaving you cradled in quietude.",
+        "60_minutes": "€70",
+        "tagline": "“In stillness, the world restores.” – John O Donohue",
+      },
+      "benefits": "Dive deeper into tranquility. This extended session untangles knots with deliberate precision, inviting your nervous system to surrender fully. Emerge as if waking from a dream, where time itself conspired to heal you."
+    }
+  },
+  "Promos & Rewards": {
+    "march_promos": {
+      "spring_refresh_combo": {
+        "details": "Head & Neck Massage (30 min) + Foot & Leg Refresh (30 min)",
+        "original_price": "€70",
+        "discounted_price": "€60",
+        "savings": "Save €10!"
+      },
+      "full_body_revival": {
+        "discount": "15% OFF 60-Minute Full Body Relaxation",
+        "original_price": "€70",
+        "discounted_price": "€59.50"
+      }
+    },
+    "april_promos": {
+      "stress_free_april": {
+        "details": "Hand & Arm Massage (25 min) + Full Body Relaxation (30 min)",
+        "original_price": "€75",
+        "discounted_price": "€65",
+        "savings": "Save €10!"
+      },
+      "weekend_wellness_special": {
+        "discount": "10% OFF all 30-Minute Services (Fridays–Sundays)",
+        "example_discount": "Head & Neck Massage €40 ➞ €36"
+      }
+    },
+    "birthday_treat": {
+      "discount": "20% OFF any 60-Minute Service during your birthday month",
+      "proof_required": "Valid ID required."
+    },
+    "booking_information": {
+      "phone": "+43 (0) 660 960 2552",
+      "email": "appointment@cosmoscare.space"
+    },
+    "Appointment Etiquette": {
+      "To ensure the best experience for you and our therapists:": {
+        "Timeliness": "Each service is allotted a specific timeframe. Please ensure you are ready at your scheduled appointment time so your therapist can complete your session without delay",
+        "Cancellations": "We kindly ask for at least 24 hours notice if you need to cancel or reschedule. Repeated last-minute cancellations or missed appointments may incur a cancellation fee, payable before or at your next session",
+      }
+    }
+  }
+}
+
